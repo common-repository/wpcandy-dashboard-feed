@@ -1,0 +1,9 @@
+/**
+ * CSS for WPCandy Dashboard Feed
+**/
+
+div#wpcandy_dashboard_custom_feed {
+	background-image: url('wpcandy-mint.png');
+	background-position: right bottom;
+	background-repeat: no-repeat;
+}
